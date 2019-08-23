@@ -1,0 +1,13 @@
+{
+    "navigationBarTitleText": "医院申请",
+    "navigationBarBackgroundColor": "#ccc",
+    "usingComponents": {
+        "van-tab": "/static/vant-weapp/tab/index",
+        "van-tabs": "/static/vant-weapp/tabs/index",
+        "van-icon": "/static/vant-weapp/icon/index",
+        "van-field": "/static/vant-weapp/field/index",
+        "van-button": "/static/vant-weapp/button/index",
+        "van-search": "/static/vant-weapp/search/index",
+        "van-area": "/static/vant-weapp/area/index"
+      }
+  }

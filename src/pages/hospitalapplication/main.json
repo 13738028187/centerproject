@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "医院注册审核",
+    "navigationBarBackgroundColor": "#ccc",
+    "usingComponents": {
+        "van-field": "/static/vant-weapp/field/index",
+        "van-picker": "/static/vant-weapp/picker/index"
+      }
+  }

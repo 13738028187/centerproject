@@ -1,0 +1,11 @@
+{
+    "navigationBarTitleText": "退款申请",
+    "navigationBarBackgroundColor": "#ccc",
+    "enablePullDownRefresh":true,
+    "usingComponents": {
+      "van-tab": "/static/vant-weapp/tab/index",
+      "van-tabs": "/static/vant-weapp/tabs/index",
+      "van-icon": "/static/vant-weapp/icon/index",
+      "van-search": "/static/vant-weapp/search/index"
+    }
+  }

@@ -1,0 +1,15 @@
+{
+    "navigationBarTitleText": "护士审核",
+    "navigationBarBackgroundColor": "#ccc",
+    "usingComponents": {
+      "van-button": "/static/vant-weapp/button/index",
+      "van-search": "/static/vant-weapp/search/index",
+      "van-tab": "/static/vant-weapp/tab/index",
+      "van-tabs": "/static/vant-weapp/tabs/index",
+      "van-icon": "/static/vant-weapp/icon/index",
+      "van-cell": "/static/vant-weapp/cell/index",
+      "van-cell-group": "/static/vant-weapp/cell-group/index"        
+    }
+  
+    
+  }

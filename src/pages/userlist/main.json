@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "用户列表",
+    "navigationBarBackgroundColor": "#ccc",
+    "usingComponents": {
+        "van-collapse": "/static/vant-weapp/collapse/index",
+        "van-collapse-item": "/static/vant-weapp/collapse-item/index",
+        "van-search": "/static/vant-weapp/search/index"
+      }
+  }

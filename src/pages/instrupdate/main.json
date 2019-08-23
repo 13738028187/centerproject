@@ -1,0 +1,7 @@
+{
+    "navigationBarTitleText": "器械信息修改",
+    "navigationBarBackgroundColor": "#ccc",
+    "usingComponents": {
+        "van-field": "/static/vant-weapp/field/index"
+      }
+  }

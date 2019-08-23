@@ -1,0 +1,11 @@
+{
+    "navigationBarTitleText": "订单服务列表",
+    "navigationBarBackgroundColor": "#ccc",
+    "usingComponents": {
+      "van-tab": "/static/vant-weapp/tab/index",
+      "van-tabs": "/static/vant-weapp/tabs/index",
+      "van-icon": "/static/vant-weapp/icon/index",
+      "van-search": "/static/vant-weapp/search/index"
+    }
+  }
+  

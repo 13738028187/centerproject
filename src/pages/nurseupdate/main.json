@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "护士信息修改",
+    "navigationBarBackgroundColor": "#ccc",
+    "usingComponents": {
+        "van-field": "/static/vant-weapp/field/index",
+        "van-picker": "/static/vant-weapp/picker/index"
+      }
+  }

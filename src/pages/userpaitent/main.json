@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "订单详情",
+    "navigationBarBackgroundColor": "#ccc",
+    "usingComponents": {
+      "van-cell": "/static/vant-weapp/cell/index",
+      "van-cell-group": "/static/vant-weapp/cell-group/index"
+    }
+  }
+  
